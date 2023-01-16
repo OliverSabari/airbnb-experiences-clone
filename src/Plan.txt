@@ -1,0 +1,25 @@
+
+
+    Header 
+            1)Logo
+            2)Airbnb Name
+
+    Image Grid
+            1) Displaying multiple grid images in the center of the page
+    
+    Description
+            1) Heading (Online Experiences)
+            2) Paragraph
+    
+    Cards 
+            1)Displaying Image
+            2)Displaying Badge (Based on openspots) or Displaying Location
+            3)Ratings
+            4)Reveiw COunt
+            5)Location
+            6)Title
+            7)Price with bold letter
+    
+    *Making responsive using react bootstrap
+    *Config/Data Driven UI 
+    
