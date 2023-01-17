@@ -12,7 +12,7 @@ const Footer = () => {
                 alt="Airbnb-Logo"
                
             />
-            <p className="copyright"> &#169; Airbnb 2023 </p>
+            <p className="copyright"> Made with ♥ By Sabari </p>
             <FaArrowCircleUp 
             style={{color : "#FF5A5F"}}
             onClick={() => window.scrollTo({top : 0,behaviour:"smooth"})}

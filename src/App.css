@@ -23,6 +23,7 @@ body{
   padding: 30px;
 }
 
+/* Below will keep the image responsive */
 .grid-image{
   max-width: 100%;
   height: auto;
@@ -59,7 +60,7 @@ body{
 
 .card:hover{
   cursor: pointer;
-  transform: scale(1.2);
+  transform: scale(1.1);
 }
 
 .badge-div{
